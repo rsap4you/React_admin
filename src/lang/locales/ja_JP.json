@@ -1,0 +1,28 @@
+{
+    "home": "ホームページ",
+    
+    "sidenav.dashboard": "ダッシュボード",
+    "sidenav.dashboard.default": "既定",
+  
+
+
+    "sidenav.apps.ecommerce": "電子商取引",
+	"sidenav.apps.ecommerce.product": "製品",
+	"sidenav.apps.ecommerce.editProduct": "商品を編集",
+	"sidenav.apps.ecommerce.addProduct": "製品を追加",
+	"sidenav.apps.ecommerce.productList": "製品リスト",
+	"sidenav.apps.ecommerce.orders": "注文",
+
+    "sidenav.apps.chat": "チャット",
+    
+    "sidenav.pages": "ページ",
+    "sidenav.pages.profile": "プロフィール",
+    "sidenav.pages.invoice": "インヴォイス",
+    "sidenav.pages.pricing": "値段付け",
+    "sidenav.pages.faq": "よくある質問",
+    "sidenav.pages.setting": "セッティング",
+    "sidenav.pages.userlist": "ユーザーリスト",
+
+	"sidenav.docs.documentation": "ドキュメンテーション",
+	"sidenav.docs.changelog": "変更ログ"
+}

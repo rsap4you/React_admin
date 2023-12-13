@@ -1,0 +1,27 @@
+{
+    "home": "Accueil",
+    
+    "sidenav.dashboard": "Tableau de bord",
+    "sidenav.dashboard.default": "Défaut",
+
+    "sidenav.apps.ecommerce": "E-Commerce",
+	"sidenav.apps.ecommerce.product": "Produit",
+	"sidenav.apps.ecommerce.editProduct": "Modifier le produit",
+	"sidenav.apps.ecommerce.addProduct": "Ajouter un produit",
+	"sidenav.apps.ecommerce.productList": "Liste de produits",
+	"sidenav.apps.ecommerce.orders": "Orders",
+
+    "sidenav.apps.chat": "Bavarder",
+
+    "sidenav.pages": "Pages",
+    "sidenav.pages.profile": "Profil",
+    "sidenav.pages.invoice": "Facture d'achat",
+    "sidenav.pages.pricing": "Tarification",
+    "sidenav.pages.faq": "FAQ",
+    "sidenav.pages.setting": "Réglage",
+    "sidenav.pages.userlist": "Liste d'utilisateur",
+
+  
+	"sidenav.docs.documentation": "Documentation",
+	"sidenav.docs.changelog": "Changelog"
+}

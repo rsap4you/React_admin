@@ -1,0 +1,27 @@
+{
+    "home": "主页",
+    
+	"sidenav.dashboard": "仪表板",
+	"sidenav.dashboard.default": "默认",
+  
+
+    "sidenav.apps.ecommerce": "电子商务",
+	"sidenav.apps.ecommerce.product": "产品",
+	"sidenav.apps.ecommerce.editProduct": "编辑产品",
+	"sidenav.apps.ecommerce.addProduct": "添加产品",
+	"sidenav.apps.ecommerce.productList": "产品列表",
+	"sidenav.apps.ecommerce.orders": "注文",
+
+    "sidenav.apps.chat": "聊天室",
+    
+    "sidenav.pages": "页面",
+    "sidenav.pages.profile": "个人资料",
+    "sidenav.pages.invoice": "单据",
+    "sidenav.pages.pricing": "价钱",
+    "sidenav.pages.faq": "常问问题",
+    "sidenav.pages.setting": "设置",
+    "sidenav.pages.userlist": "用户清单",
+
+	"sidenav.docs.documentation": "文献资料",
+	"sidenav.docs.changelog": "变更日志"
+}
